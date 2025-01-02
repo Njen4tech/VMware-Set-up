@@ -23,9 +23,15 @@ This project consists of step by step guide on building a Virtual Machine and cr
 <p align="center">
 Launch the utility: <br/>
 <br />
+ Download from VMware Workstation from this **Site**. 
+<img src="https://github.com/user-attachments/assets/149ef1b4-62ed-468e-b132-7ab6b296829e" height="80%" width="80%" alt=
+"Download Vmware Site"/>
+
 <br />
 Select the disk:  <br/>
 <br />
+
+
 <br />
 Enter the number of passes: <br/>
 <br />
