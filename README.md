@@ -50,12 +50,16 @@ User Experience Settings:  <br/>
 "User Setup"/>
 <br />
 <br />
-<img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c
-" Shortcuts />
+<img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="80%" width="80%" alt= 
+"Shortcuts" />
 <br />
 <br />
 <img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="80%" width="80%" alt=
 "Ready installation"/>
+
+<br />
+<br />
+<img src=/>
 
 
 
