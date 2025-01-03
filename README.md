@@ -50,36 +50,46 @@ User Experience Settings:  <br/>
 "User Setup"/>
 <br />
 <br />
+User Experience Settings: 
 <img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="80%" width="80%" alt= 
 "Shortcuts" />
 <br />
 <br />
+User Experience Settings: 
 <img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="80%" width="80%" alt=
 "Ready installation"/>
 
 <br />
 <br />
-<img src=/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+User Experience Settings: 
 Wait for the process to complete (may take some time):  <br/>
+<img src="https://github.com/user-attachments/assets/8e4e3eac-dea1-4f2d-a60b-72642ba1710b" height="80%" width="80%" alt= 
+"Installation Processing"/>
+<br /> 
+Set up Completed !: 
+<img src="https://github.com/user-attachments/assets/764794a7-fe62-4c9d-904a-3599b89a7768"  height="80%" width="80%" alt=
+"installation Completed!"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br />
 <br />
 Sanitization complete:  <br/>
