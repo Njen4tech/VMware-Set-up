@@ -31,8 +31,13 @@ Launch the utility: <br/>
 Select the disk:  <br/>
 <br />
 <h5>Process and Instaltions</h5>
-<img src="https://github.com/user-attachments/assets/973fb58b-d937-49c0-876a-c2ecddff28db" height="80%" width="80%" alt=
+<img src="https://github.com/user-attachments/assets/572aba9b-9c2e-483a-a849-8602773b07f3" height="80%" width="80%" alt=
 "Installations"/>
+<br />
+<br />
+<img src="https://github.com/user-attachments/assets/5190155c-98a0-44d0-8f5c-35e5f5d17d9c" height="80%" width="80%" alt=
+"End User Licenses Agreement"/>
+<br />
 <br />
 Custom Setup: <br/>
 <br />
