@@ -11,7 +11,7 @@ This project consists of a step-by-step guide on building a Virtual Machine and 
 
 - <b>Download file</b> 
 - <b>Setup & Configuration </b>
-- <b>VMware17 PRO</b>
+- <b>VMware 17 Pro License Settings</b>
  
   
 <h2>Environments Used </h2>
@@ -47,7 +47,7 @@ User Experience Settings:
 <img src="https://github.com/user-attachments/assets/ed7eb8a0-7499-4923-bbf2-46cb16ca2d81" height="70%" width="70%" alt=
 "User Setup"/>
 <br />
-1: 
+Choose your application shortcut (option) then click **Next**: 
 <br />
 <img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="70%" width="70%" alt= 
 "Shortcuts" />
