@@ -9,7 +9,7 @@ This project consists of step by step guide on building a Virtual Machine and cr
 
 <h2>Utility and Tools </h2>
 
-- <b>PowerShell</b> 
+- <b>Download file</b> 
 - <b>Diskpart </b>
 - <b>VMware17 PRO</b>
  
@@ -24,8 +24,6 @@ This project consists of step by step guide on building a Virtual Machine and cr
 Launch the utility: <br/>
 <br />
 <h5> Download from VMware Workstation from this.[Vmware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)</h5> 
-
- 
 <img src="https://github.com/user-attachments/assets/149ef1b4-62ed-468e-b132-7ab6b296829e" height="80%" width="80%" alt=
 "Download Vmware"/>
 
@@ -35,13 +33,11 @@ Select the disk:  <br/>
 <h5>Process and Instaltions</h5>
 <img src="https://github.com/user-attachments/assets/973fb58b-d937-49c0-876a-c2ecddff28db" height="80%" width="80%" alt=
 "Installations"/>
-
-
-
 <br />
-
-Enter the number of passes: <br/>
+Custom Setup: <br/>
 <br />
+<img src=""
+
 <br />
 Confirm your selection:  <br/>
 <br />
