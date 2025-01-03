@@ -49,6 +49,32 @@ User Experience Settings:  <br/>
 <img src="https://github.com/user-attachments/assets/ed7eb8a0-7499-4923-bbf2-46cb16ca2d81" height="80%" width="80%" alt=
 "User Setup"/>
 <br />
+<br />
+<img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c
+" Shortcuts />
+<br />
+<br />
+<img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="80%" width="80%" alt=
+"Ready installation"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Wait for the process to complete (may take some time):  <br/>
 <br />
 <br />
