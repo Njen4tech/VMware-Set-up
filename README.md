@@ -67,8 +67,8 @@ Wait for the process to complete (may take some time):  <br/>
 "Installation Processing"/>
 <br /> 
 Set up Completed !: 
-<img src="https://github.com/user-attachments/assets/764794a7-fe62-4c9d-904a-3599b89a7768"  height="80%" width="80%" alt=
-"installation Completed!"/>
+<img src="https://github.com/user-attachments/assets/38947d20-1fae-42b7-ac15-3600d446b133"  height="80%" width="80%" alt=
+"Installation Completed!"/>
 
 
 
