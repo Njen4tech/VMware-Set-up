@@ -28,45 +28,45 @@ Launch the utility: <br/>
 "Download Vmware"/>
 
 <br />
-Select the disk:  <br/>
+ <br/>
 <br />
-<h5>Process and Instaltions</h5>
-<img src="https://github.com/user-attachments/assets/572aba9b-9c2e-483a-a849-8602773b07f3" height="80%" width="80%" alt=
+<h5>Process & Installation </h5>
+<img src="https://github.com/user-attachments/assets/572aba9b-9c2e-483a-a849-8602773b07f3" height="70%" width="70%" alt=
 "Installations"/>
 <br />
-<img src="https://github.com/user-attachments/assets/5190155c-98a0-44d0-8f5c-35e5f5d17d9c" height="80%" width="80%" alt=
+<img src="https://github.com/user-attachments/assets/5190155c-98a0-44d0-8f5c-35e5f5d17d9c" height="70%" width="70%" alt=
 "End User Licenses Agreement"/>
 <br />
-Custom Setup: <br/>
+Custom Setup: <be />
 <br />
-<img src="https://github.com/user-attachments/assets/ae42477b-b45d-4606-97df-f581cf3ca1e7" height="80%" width="80%" alt=  
+<img src="https://github.com/user-attachments/assets/ae42477b-b45d-4606-97df-f581cf3ca1e7" height="70%" width="70%" alt=  
 "Custom Setup"/>
 <br />
 User Experience Settings: 
 <br />
-<img src="https://github.com/user-attachments/assets/ed7eb8a0-7499-4923-bbf2-46cb16ca2d81" height="80%" width="80%" alt=
+<img src="https://github.com/user-attachments/assets/ed7eb8a0-7499-4923-bbf2-46cb16ca2d81" height="70%" width="70%" alt=
 "User Setup"/>
 <br />
 1: 
 <br />
-<img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="80%" width="80%" alt= 
+<img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="70%" width="70%" alt= 
 "Shortcuts" />
 <br />
 2:
 <br />
-<img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="80%" width="80%" alt=
+<img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="70%" width="70%" alt=
 "Ready installation"/>
 <br />
-3: 
-<br/>
+
 Please wait for the process to complete (it may take some time⏲): 
-<img src="https://github.com/user-attachments/assets/8e4e3eac-dea1-4f2d-a60b-72642ba1710b" height="80%" width="80%" alt= 
+<img src="https://github.com/user-attachments/assets/8e4e3eac-dea1-4f2d-a60b-72642ba1710b" height="70%" width="70%" alt= 
 "Installation Processing"/>
 <br /> 
 Set up Completed !: 
 <br />
-<img src="https://github.com/user-attachments/assets/38947d20-1fae-42b7-ac15-3600d446b133"  height="80%" width="80%" alt=
+<img src="https://github.com/user-attachments/assets/38947d20-1fae-42b7-ac15-3600d446b133"  height="70%" width="70%" alt=
 "Installation Completed!"/>
+<br />
 <br />
 <br />
 <H3>(Optional) License Key</H3>
