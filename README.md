@@ -72,6 +72,16 @@ Set up Completed !:
 <br />
 <br />
 <H3>(Optional) License Key</H3>
+<img src="https://github.com/user-attachments/assets/64a5d335-12f1-4654-92f8-4afe8187e38e" height="70%" width="70%" alt=
+ "License" />
+
+
+ 
+
+
+
+
+
 
 
 
