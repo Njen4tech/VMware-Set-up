@@ -57,7 +57,7 @@ User Experience Settings will let you choose these options.
 "User Setup"/>
 <br />
 <br />
-Choose your application shortcut (option) then click <ins><b>NEXT</b></ins> 
+Choose your application shortcut (option) then click <i><b>NEXT</b></i> 
  <br />
 <img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="70%" width="70%" alt= 
 "Shortcuts" />
