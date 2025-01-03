@@ -44,32 +44,36 @@ Custom Setup: <br/>
 <img src="https://github.com/user-attachments/assets/ae42477b-b45d-4606-97df-f581cf3ca1e7" height="80%" width="80%" alt=  
 "Custom Setup"/>
 <br />
-User Experience Settings:  <br/>
+User Experience Settings:  
 <br />
 <img src="https://github.com/user-attachments/assets/ed7eb8a0-7499-4923-bbf2-46cb16ca2d81" height="80%" width="80%" alt=
 "User Setup"/>
-<br />
+
 <br />
 User Experience Settings: 
 <img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="80%" width="80%" alt= 
 "Shortcuts" />
 <br />
-<br />
+
 User Experience Settings: 
 <img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="80%" width="80%" alt=
 "Ready installation"/>
 
 <br />
-<br />
 User Experience Settings: 
-Wait for the process to complete (may take some time):  <br/>
+<br/>
+Please wait for the process to complete (it may take some time⏲): 
 <img src="https://github.com/user-attachments/assets/8e4e3eac-dea1-4f2d-a60b-72642ba1710b" height="80%" width="80%" alt= 
 "Installation Processing"/>
 <br /> 
 Set up Completed !: 
 <img src="https://github.com/user-attachments/assets/38947d20-1fae-42b7-ac15-3600d446b133"  height="80%" width="80%" alt=
 "Installation Completed!"/>
+<br />
+<br />
+<br />
 
+<H3>(Optional) Lisence Key</H3>
 
 
 
