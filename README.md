@@ -34,10 +34,8 @@ Select the disk:  <br/>
 <img src="https://github.com/user-attachments/assets/572aba9b-9c2e-483a-a849-8602773b07f3" height="80%" width="80%" alt=
 "Installations"/>
 <br />
-<br />
 <img src="https://github.com/user-attachments/assets/5190155c-98a0-44d0-8f5c-35e5f5d17d9c" height="80%" width="80%" alt=
 "End User Licenses Agreement"/>
-<br />
 <br />
 Custom Setup: <br/>
 <br />
@@ -45,20 +43,16 @@ Custom Setup: <br/>
 "Custom Setup"/>
 <br />
 User Experience Settings:  
-<br />
 <img src="https://github.com/user-attachments/assets/ed7eb8a0-7499-4923-bbf2-46cb16ca2d81" height="80%" width="80%" alt=
 "User Setup"/>
-
 <br />
 User Experience Settings: 
 <img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="80%" width="80%" alt= 
 "Shortcuts" />
 <br />
-
 User Experience Settings: 
 <img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="80%" width="80%" alt=
 "Ready installation"/>
-
 <br />
 User Experience Settings: 
 <br/>
@@ -71,9 +65,7 @@ Set up Completed !:
 "Installation Completed!"/>
 <br />
 <br />
-<br />
-
-<H3>(Optional) Lisence Key</H3>
+<H3>(Optional) License Key</H3>
 
 
 
