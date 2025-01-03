@@ -3,14 +3,14 @@
 
 <h2>Description</h2>
 
-This project consists of step by step guide on building a Virtual Machine and creating an Active Directory home lab environment, it’s recommended to allocate adequate resources, such as CPU, RAM, and storage, to meet your testing and development needs. Additionally, consider networking configurations such as virtual switches and VLANs before setting up your Virtual Machines.
+This project consists of a step-by-step guide on building a Virtual Machine and creating an Active Directory home lab environment, it’s recommended to allocate adequate resources, such as CPU, RAM, and storage, to meet your testing and development needs. Additionally, consider networking configurations such as virtual switches and VLANs before setting up your Virtual Machines.
 <br />
 
 
 <h2>Utility and Tools </h2>
 
 - <b>Download file</b> 
-- <b>Diskpart </b>
+- <b>Setup & Configuration </b>
 - <b>VMware17 PRO</b>
  
   
@@ -42,25 +42,29 @@ Custom Setup: <br/>
 <img src="https://github.com/user-attachments/assets/ae42477b-b45d-4606-97df-f581cf3ca1e7" height="80%" width="80%" alt=  
 "Custom Setup"/>
 <br />
-User Experience Settings:  
+User Experience Settings: 
+<br />
 <img src="https://github.com/user-attachments/assets/ed7eb8a0-7499-4923-bbf2-46cb16ca2d81" height="80%" width="80%" alt=
 "User Setup"/>
 <br />
-User Experience Settings: 
+1: 
+<br />
 <img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="80%" width="80%" alt= 
 "Shortcuts" />
 <br />
-User Experience Settings: 
+2:
+<br />
 <img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="80%" width="80%" alt=
 "Ready installation"/>
 <br />
-User Experience Settings: 
+3: 
 <br/>
 Please wait for the process to complete (it may take some time⏲): 
 <img src="https://github.com/user-attachments/assets/8e4e3eac-dea1-4f2d-a60b-72642ba1710b" height="80%" width="80%" alt= 
 "Installation Processing"/>
 <br /> 
 Set up Completed !: 
+<br />
 <img src="https://github.com/user-attachments/assets/38947d20-1fae-42b7-ac15-3600d446b133"  height="80%" width="80%" alt=
 "Installation Completed!"/>
 <br />
