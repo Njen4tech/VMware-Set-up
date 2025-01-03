@@ -36,11 +36,13 @@ Select the disk:  <br/>
 <br />
 Custom Setup: <br/>
 <br />
-<img src=""
-
+<img src="https://github.com/user-attachments/assets/ae42477b-b45d-4606-97df-f581cf3ca1e7" height="80%" width="80%" alt=  
+"Custom Setup"/>
 <br />
-Confirm your selection:  <br/>
+User Experience Settings:  <br/>
 <br />
+<img src="https://github.com/user-attachments/assets/ed7eb8a0-7499-4923-bbf2-46cb16ca2d81" height="80%" width="80%" alt=
+"User Setup"/>
 <br />
 Wait for the process to complete (may take some time):  <br/>
 <br />
