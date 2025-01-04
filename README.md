@@ -21,9 +21,11 @@ This project consists of a step-by-step guide on building a Virtual Machine and 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Launch the utility. <br/>
+<br /> 
+
+Click on this<I>LINK<i/> to Download [VMware Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion).
 <br />
-<h4>Download VMware Workstation from this <b><i>Link</i></b>.</h4>[Vmware](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
 <img src="https://github.com/user-attachments/assets/149ef1b4-62ed-468e-b132-7ab6b296829e" height="80%" width="80%" alt=
 "Download Vmware"/>
 
@@ -57,24 +59,24 @@ User Experience Settings will let you choose these options.
 "User Setup"/>
 <br />
 <br />
-Choose your application shortcut (option) then click <i><b>NEXT</b></i> 
+Choose your application shortcut (option) then click <i><b>NEXT</b></i>. 
  <br />
 <img src="https://github.com/user-attachments/assets/faeaa2d2-0499-4d45-8a19-8bcee419567c" height="70%" width="70%" alt= 
 "Shortcuts" />
 <br />
 <br />
-Click <I><b>Install</b></I>
+Click <I><b>Install</b></I>.
 <br />
 <img src="https://github.com/user-attachments/assets/e92aeca4-d793-4449-a65e-ad83874aee6a" height="70%" width="70%" alt=
 "Ready installation"/>
 <br />
 <br />
-Please wait for the process to complete (it may take some time⏲).: 
+Please wait for the process to complete <b>(it may take some time⏲)<b />.
 <img src="https://github.com/user-attachments/assets/8e4e3eac-dea1-4f2d-a60b-72642ba1710b" height="70%" width="70%" alt= 
 "Installation Processing"/>
 <br /> 
   <br />
-The setup is complete! If you have a license, please add it at this prompt.: 
+The setup is complete! If you have a license, please add it at this prompt. 
 <img src="https://github.com/user-attachments/assets/38947d20-1fae-42b7-ac15-3600d446b133"  height="70%" width="70%" alt=
 "Installation Completed!"/>
 <br />
@@ -85,42 +87,36 @@ The setup is complete! If you have a license, please add it at this prompt.:
  "License" />
  <br />
  <br />
+
+
+
+<br />
+<h3>Initial Setup</h3>  <br/>
+After the installation is successful.
+<br />
+<br />
+<br />
+Start the Vmware application from your Desktop:  <br/>
+<img src="https://github.com/user-attachments/assets/45578b06-2aae-4694-ba98-236d09497dad" height="30%" width="30%" alt=
+ "Desktops" />
+<br />
+<br />
+This will launch Vmware Workstation Pro, you are immediately prompted to enter an active licensing key or continue without a license and proceed with a 30-day trial option. Click <i><b>Continue</b></i>.
+<br />
+<img src="https://github.com/user-attachments/assets/c15e8e88-669f-4ddb-a788-f1156c0ed8ec" height="50%" width="50%" alt=
+ "License or Trial" />
+
+<br />
+<br />
+ Click <I><b>Finish<b/><I/>.
+ <br />
+ <img src="https://github.com/user-attachments/assets/9a2fd80d-a5dd-4623-84aa-98a646ea35a0" height="50%" width="50%" alt= 
+"Finished Configuration" />
+
+
+ <br />
  
- 
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br />
-<br />
-<h3>Initial Setup:</h3>  <br/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
 </p>
 
 <!--
