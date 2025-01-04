@@ -24,7 +24,7 @@ This project consists of a step-by-step guide on building a Virtual Machine and 
 Launch the utility. <br/>
 <br /> 
 
-Click on this<I>LINK<i/> to Download [VMware Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion).
+Click on this link [VMware Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) to downlaod.
 <br />
 <img src="https://github.com/user-attachments/assets/149ef1b4-62ed-468e-b132-7ab6b296829e" height="80%" width="80%" alt=
 "Download Vmware"/>
