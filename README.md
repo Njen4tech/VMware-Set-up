@@ -101,7 +101,7 @@ Start the Vmware application from your Desktop:  <br/>
  "Desktops" />
 <br />
 <br />
-This will launch Vmware Workstation Pro, you are immediately prompted to enter an active licensing key or continue without a license and proceed with a 30-day trial option. Click <i><b>Continue</b></i>.
+This will launch VMware Workstation Pro, you are immediately prompted to enter an active licensing key or continue without a license and proceed with a 30-day trial option. Click <i><b>Continue</b></i>.
 <br />
 <img src="https://github.com/user-attachments/assets/c15e8e88-669f-4ddb-a788-f1156c0ed8ec" height="50%" width="50%" alt=
  "License or Trial" />
